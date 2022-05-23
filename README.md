@@ -16,6 +16,7 @@ This project goal was Dockerizing an application.
 
 🛠️ **Used tools:**
 * Docker
+* Docker Compose
 
 <br/>
 
